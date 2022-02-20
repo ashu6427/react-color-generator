@@ -1,3 +1,2 @@
-#### Values JS
-
-[values.js](https://github.com/noeldelgado/values.js)
+#### React Color Generator
+You can view this project here https://color-identifier.netlify.app/
